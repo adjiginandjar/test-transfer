@@ -1,2 +1,5 @@
 # test-transfer
-test trensfer
+test transfer
+
+
+edit readme.md
